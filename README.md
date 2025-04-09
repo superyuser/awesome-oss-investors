@@ -1,4 +1,4 @@
-# Awesome open-source VCs 💸
+# Awesome open-source VCs!! 💸
 Awesome list of VCs investing in commercial open-source startups.
 
 ## Criteria
